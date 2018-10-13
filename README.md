@@ -1,4 +1,14 @@
-# Api
+# Neural Net Visualization
+
+This is an elixir app with a sockety/resty backend, and a Vue/Latexy/D3? frontend
+
+
+
+
+
+
+#### Api
+
 
 To start your Phoenix server:
 
@@ -11,7 +21,7 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
 
-## Learn more
+### Learn more
 
   * Official website: http://www.phoenixframework.org/
   * Guides: http://phoenixframework.org/docs/overview
