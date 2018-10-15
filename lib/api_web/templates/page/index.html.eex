@@ -1,6 +1,7 @@
-<div class="jumbotron">
-  <h2><%= gettext "Welcome to %{name}!", name: "Phoenix" %></h2>
-  <p class="lead">A productive web framework that<br />does not compromise speed and maintainability.</p>
+<div class="jumbotron" style="background-color: #ffffff">
+  <p>
+    <span class="first-word">Neural Nets</span> are a class of machine learning algorithms, commonly though of as artificial intelligence, that allow computers to perform complex tasks. These algorithms follow a multi-step process to reason about data and allow programs to make decisions based on that reasoning. Mathematically, the net itself can be thought of as a collection of matrices, functions, and data that produce a model. Programs can follow these models to make decisions about data or make predictions.   
+  </p>
 </div>
 
 <div class="row marketing">
